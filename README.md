@@ -56,7 +56,7 @@ You can access the dataset here: [Sentiment140 Dataset](https://www.kaggle.com/d
 - **NumPy**: Used for handling numerical arrays during data preprocessing and performing mathematical computations such as converting text data into numerical formats.
 - **Pandas**: Used to load and manipulate the Twitter dataset, including tasks like filtering, cleaning, and organizing tweet data for analysis.
 - **NLTK (Natural Language Toolkit)**: Used for text preprocessing, including tokenization, stopword removal, stemming, lemmatization, and preparing textual data for model training.
-- **Scikit-learn (skLearn)**: Used for feature extraction (e.g., TF-IDF Vectorizer), building machine learning models (e.g., Logistic Regression, Naive Bayes), and evaluating the model's performance using metrics such as accuracy score.
+- **Scikit-learn (skLearn)**: Used for feature extraction (e.g., TF-IDF Vectorizer), building machine learning models (e.g., Logistic Regression), and evaluating the model's performance using metrics such as accuracy score.
 
 ---
 
